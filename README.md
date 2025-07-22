@@ -74,10 +74,6 @@ Stroke prevalence is higher among older age groups (especially 60+).
 
 Average BMI and glucose levels show strong association with stroke occurrence.
 
-# 🔗 Dashboard & Model Access
-Power BI Dashboard: [Add Power BI dashboard link or screenshot here if public]
-
-GitHub Repository: [Your GitHub repo link here]
 
 # 💡 Future Improvements
 Incorporate advanced balancing techniques (e.g. SMOTE) for imbalanced data.
